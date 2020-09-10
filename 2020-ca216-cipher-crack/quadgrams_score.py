@@ -1,4 +1,3 @@
-#NOT MY CODE
 
 from math import log10
 
