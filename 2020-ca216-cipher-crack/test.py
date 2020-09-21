@@ -23,4 +23,3 @@ for t in threads:
     print(result)
 #with concurrent.futures.ThreadPoolExecutor() as exc:
 #    test = [exc.submit(sample,number) for number in range(4)]
-#    print("this aint it chief")
