@@ -1,2 +1,2 @@
-# cipher
-Cracking messages encrypted by substituion and caesar cipher
+# Message Decrypter
+Cracking messages encrypted by substituion and caesar cipher.
